@@ -1,0 +1,22 @@
+{
+"sourceName": "mensenopstraat.jpg",
+"sourceContainer": "preload",
+"destinationName": "mensenopstraat.jpg",
+"destinationContainer": "todo",
+"probability": 0.700,
+"boundingBox": 
+[
+    {
+        "top": 131,
+        "left": 177,
+        "width": 162,
+        "height": 162
+     },
+     {
+        "top": 13,
+        "left": 17,
+        "width": 162,
+        "height": 162
+     }
+]
+}
